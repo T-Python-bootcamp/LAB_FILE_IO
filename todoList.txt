@@ -1,0 +1,4 @@
+l woke up at 8 am
+ I learned recursion and lambda function
+ I learned too python file I/O 
+ I study hard
