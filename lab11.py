@@ -1,0 +1,6 @@
+my_file = open("todoList.txt", "w+", encoding="utf-8")
+my_file.writelines(["1- To Do the undone labs","\n2- To eat Dinner with a friend"])
+my_file.seek(0)
+content = my_file.readlines()
+print(content)
+my_file.close()
