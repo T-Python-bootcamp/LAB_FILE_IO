@@ -1,0 +1,3 @@
+go to eat
+go to work
+go to sleep
